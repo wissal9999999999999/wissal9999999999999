@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **an AI research project in healthcare**
 
-- 🌱 I’m currently learning **JavaScript and graph neural networks for image processing**
+- 🌱 I’m currently learning **graph neural networks for image processing**
 
 - 💬 Ask me about **App development, Internet of Things, artificial intelligence, deep learning, and graph-based methods.**
 
